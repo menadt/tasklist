@@ -7,6 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class HeaderComponent implements OnInit {
 
+  title = 'Lista de Tareas de prueba';
   constructor() { }
 
   ngOnInit(): void {
