@@ -4,4 +4,3 @@ export interface Task{
     day:string;
     reminder:boolean;
 }
-]
